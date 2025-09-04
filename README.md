@@ -35,6 +35,4 @@ I'm a passionate Data & AI enthusiast, recently pivoting from a deep background 
 
 When I'm not wrangling data or experimenting with algorithms, you'll find me immersed in sports or leveling up in videogames. I believe that teamwork, strategy, and continuous improvement—on the field and in code—drive success in every domain.
 
----
 
-_Always learning. Always building. Let’s make data intelligent!_
