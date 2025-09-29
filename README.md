@@ -18,7 +18,7 @@ I'm a passionate Data & AI enthusiast, recently pivoting from a deep background 
   A comprehensive recommender system developed for my master's thesis, blending advanced machine learning techniques with real-world data scenarios.
 
 - [**RAG_Agent**](https://github.com/Palomero96/RAG_Agent):  
-  Researching Retrieval-Augmented Generation for AI agents.
+  Researching Retrieval-Augmented Generation (RAG) for AI agents, featuring a complete implementation with graphical interface for document upload and intelligent querying. This system enhances large language models with external knowledge retrieval for accurate, context-aware responses.
 
 - [**PiCameraServer**](https://github.com/Palomero96/PiCameraServer):  
   A lightweight Raspberry Pi camera server project, enabling real-time video streaming and automation for smart environments.
